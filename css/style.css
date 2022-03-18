@@ -57,3 +57,8 @@ h1 {
     text-shadow: 10px;
 
 }
+
+a:hover{
+    text-decoration: none;
+    color: blue;
+}
